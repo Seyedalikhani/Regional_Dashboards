@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Regional_Dashboards", "Regional_Dashboards\Regional_Dashboards.pyproj", "{E06CDCCD-6AE4-44A0-8D16-9C512B51D0B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E06CDCCD-6AE4-44A0-8D16-9C512B51D0B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E06CDCCD-6AE4-44A0-8D16-9C512B51D0B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6061313D-F578-410A-9C3D-B188A29193C2}
+	EndGlobalSection
+EndGlobal
